@@ -1,0 +1,4 @@
+﻿  BITCHIESource.c
+C:\Users\817677\source\repos\9-27_Daily_CODE_REAL_BITCHIE\9-27_Daily_CODE_REAL_BITCHIE\BITCHIESource.c(12,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\817677\source\repos\9-27_Daily_CODE_REAL_BITCHIE\9-27_Daily_CODE_REAL_BITCHIE\BITCHIESource.c(13,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  9-27_Daily_CODE_REAL_BITCHIE.vcxproj -> C:\Users\817677\source\repos\9-27_Daily_CODE_REAL_BITCHIE\x64\Debug\9-27_Daily_CODE_REAL_BITCHIE.exe
